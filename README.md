@@ -11,6 +11,7 @@ The project contains two parts:
   -  The .csv is then used in projects to forecast employee count in the Real Estate industry over a period of 2 years
 
  The main part of the forecasting code is in R Code (forecasting)/Main_files/Final_Forecast.R
+ direct link: https://github.com/haharooted/forecasting/blob/main/R%20code%20(forecasting)/Main_files/Final_Forecast.R
 
 
 
